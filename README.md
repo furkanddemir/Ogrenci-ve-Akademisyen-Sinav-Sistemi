@@ -57,15 +57,25 @@ Bu proje sırasında aşağıdaki teknik konularda uygulamalı çalışmalar ger
 
 ## 📸 Ekran Görüntüleri
 ![Ekran görüntüsü 2025-01-17 231307](https://github.com/user-attachments/assets/00d60ed8-1e99-4450-9b21-61b694538ef3)
+---
 ![Ekran görüntüsü 2025-01-17 231418](https://github.com/user-attachments/assets/1f7c6bb4-55d6-4a35-85f9-fa636186fe43)
+---
 ![Ekran görüntüsü 2025-01-17 232850](https://github.com/user-attachments/assets/d854f12c-82f4-4602-85f9-019b115ce2d0)
+---
 ![Ekran görüntüsü 2025-01-17 232857](https://github.com/user-attachments/assets/7b334ab6-985a-47e2-9a54-f5a39ab73748)
+---
 ![Ekran görüntüsü 2025-01-17 232912](https://github.com/user-attachments/assets/aa4f54ab-3daa-404e-9c4f-0c44040a1c73)
+---
 ![Ekran görüntüsü 2025-01-17 232921](https://github.com/user-attachments/assets/5669e7ef-b11b-4e89-8011-98513fe6a64a)
+---
 ![Ekran görüntüsü 2025-01-17 232927](https://github.com/user-attachments/assets/3c63fd5c-ec42-4100-b8d1-ec74dc74182e)
+---
 ![Ekran görüntüsü 2025-01-17 232934](https://github.com/user-attachments/assets/b49c44a5-35de-473d-867f-3ddc250346ea)
+---
 ![Ekran görüntüsü 2025-01-17 232939](https://github.com/user-attachments/assets/32be8109-80c0-4ee9-936b-9309753a97c0)
+---
 ![Ekran görüntüsü 2025-01-17 232945](https://github.com/user-attachments/assets/097573bb-8f03-48f6-957f-e4787b219e54)
+---
 ![Ekran görüntüsü 2025-01-17 233002](https://github.com/user-attachments/assets/0a101cb5-79c4-458c-82a8-499aca7a580c)
 
 ---
