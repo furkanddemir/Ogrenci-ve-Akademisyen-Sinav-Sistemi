@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="dd635c451a264eda81917c8a9085bba8" Name="Diagram1" ZoomLevel="100">
+        <EntityTypeShape EntityType="TurkcellOgrenciSinavSistemiModel.TblAkademisyen" Width="1.5" PointX="5.75" PointY="5.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="TurkcellOgrenciSinavSistemiModel.TblBolum" Width="1.5" PointX="0.75" PointY="1.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="TurkcellOgrenciSinavSistemiModel.TblDersler" Width="1.5" PointX="3" PointY="5.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="TurkcellOgrenciSinavSistemiModel.TblOgrenci" Width="1.5" PointX="3" PointY="1.125" IsExpanded="true" />
+        <AssociationConnector Association="TurkcellOgrenciSinavSistemiModel.FK_TblOgrenci_TblBolum" ManuallyRouted="false" />
+        <EntityTypeShape EntityType="TurkcellOgrenciSinavSistemiModel.View_1" Width="1.5" PointX="7.375" PointY="0.75" />
+        <EntityTypeShape EntityType="TurkcellOgrenciSinavSistemiModel.TblNotlar" Width="1.5" PointX="5.125" PointY="1.125" />
+        <AssociationConnector Association="TurkcellOgrenciSinavSistemiModel.FK_TblNotlar_TblDersler" />
+        <AssociationConnector Association="TurkcellOgrenciSinavSistemiModel.FK_TblNotlar_TblOgrenci" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>
